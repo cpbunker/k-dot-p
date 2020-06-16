@@ -4,7 +4,7 @@ Created on Jan 17, 2020
 @author: Christian
 '''
 
-from Finders import functions 
+import functions 
 from matplotlib import pyplot
 import numpy as np
 

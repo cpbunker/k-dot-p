@@ -10,9 +10,9 @@ import numpy as np
 import time
 import scipy.constants
 import scipy.integrate
-from Finders import main
-from Finders import functions
-from Finders import utils
+import main
+import functions
+import utils
 
 ################################################################################
 # 

@@ -6,7 +6,7 @@ Created on Jan 17, 2020
 
 import numpy as np
 import scipy.constants
-from Finders import utils
+import utils
 
 ################################################################################
 # 

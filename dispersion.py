@@ -12,9 +12,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 
-from Finders import main
-from Finders import functions
-from Finders import matrices
+import main
+import functions
+import matrices
 
 def E_k(k_x, k_y, func_inputs, finder_inputs, is_tilde= False, is_verbose = False):
     '''

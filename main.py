@@ -9,10 +9,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 
-from Finders import utils
-from Finders import finders 
-from Finders import functions 
-from Finders import matrices
+import utils
+import finders
+import functions
+import matrices
 
 
 
